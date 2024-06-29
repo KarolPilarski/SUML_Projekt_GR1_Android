@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Test Score Predictor</string>
+
+    <string name="reading_score">Reading score</string>
+    <string name="writing_score">Writing score</string>
+    <string name="math_score">Math score</string>
+
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender</string>
+
+    <string name="ethnicity">Ethnicity</string>
+    <string name="group_a">Group A</string>
+    <string name="group_b">Group B</string>
+    <string name="group_c">Group C</string>
+    <string name="group_d">Group D</string>
+    <string name="group_e">Group E</string>
+
+    <string name="parent_education">Parent education</string>
+    <string name="bachelors_degree">Bachelor\'s degree</string>
+    <string name="high_school">High School</string>
+    <string name="some_high_school">Some High School</string>
+    <string name="associates_degree">Associate\'s degree</string>
+    <string name="some_collage">Some collage</string>
+
+    <string name="lunch">Lunch</string>
+    <string name="standard">Standard</string>
+    <string name="free_reduced">Free/Reduced</string>
+
+    <string name="preparation">Preparation</string>
+    <string name="completed">Completed</string>
+    <string name="none">None</string>
+
+    <string name="parent_martial_status">Parent martial status</string>
+    <string name="married">Married</string>
+    <string name="single">Single</string>
+    <string name="divorced">Divorced</string>
+    <string name="widowed">Widowed</string>
+
+    <string name="sport">Sport</string>
+    <string name="regularly">Regularly</string>
+    <string name="sometimes">Sometimes</string>
+    <string name="never">Never</string>
+
+    <string name="first_child">First child</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="number_of_siblings">Number of siblings</string>
+
+    <string name="transport">Transport</string>
+    <string name="school_bus">School bus</string>
+    <string name="private_transport">Private</string>
+
+    <string name="weekly_study_hours">Weekly study hours</string>
+    <string name="less_than_5">Less than 5</string>
+    <string name="between_5_and_10">Between 5 and 10</string>
+    <string name="more_than_10">More than 10</string>
+    <string name="submit">Submit</string>
+    <string name="form_desc">Complete the survey to estimate your score for an upcoming test.</string>
+    <string name="new_prediction">New prediction</string>
+    <string name="masters_degree">Master\'s degree</string>
+    <string name="positive_info">Excellent!</string>
+    <string name="neutral_info">Not bad</string>
+    <string name="negative_info">Don’t give up</string>
+
+</resources>
